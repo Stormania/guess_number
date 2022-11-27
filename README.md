@@ -1,6 +1,6 @@
 # guess_number
 
-A new Flutter project.
+A new Flutter project called Guess My Number.
 
 ## Getting Started
 
